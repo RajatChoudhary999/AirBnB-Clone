@@ -1,4 +1,4 @@
-Live-Demo:-https://project-airbnb-app.netlify.app/
+[LIVE DEMO](https://project-airbnb-app.netlify.app/).
 
 # Getting Started with Create React App
 
